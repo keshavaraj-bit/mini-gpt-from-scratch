@@ -13,6 +13,15 @@
 Built and trained a GPT-style Transformer from scratch using PyTorch.
 </p>
 
+
+## Demo
+
+The model generates Shakespeare-style text after training.
+
+![Mini GPT Demo](assets/demo.png)
+
+
+
 ## Features
 
 - Character-level tokenizer
